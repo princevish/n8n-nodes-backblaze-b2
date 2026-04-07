@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-backblaze-b2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backblaze B2 integration for n8n",
   "license": "MIT",
   "author": {
